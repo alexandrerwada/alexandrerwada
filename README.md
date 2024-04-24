@@ -51,8 +51,4 @@ Abaixo estão algumas das minhas habilidades/conhecimentos e áreas de expertise
 - BaaS (Backend as a Service), Faas (Function as a Service), PaaS (Platform as a Service)
 - Quantum Computing, Quantum Machine Learning, Quantum Cryptography, Post-Quantum Cryptography
 
-Com essa vasta experiência, estou preparado para enfrentar desafios e fornecer soluções de alta qualidade. Estou sempre aprendendo e me atualizando para permanecer na vanguarda da tecnologia.
-
-Se você está procurando um profissional comprometido e apaixonado por tecnologia para impulsionar seu projeto, estou pronto para colaborar!
-
 
