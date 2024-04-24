@@ -1,6 +1,6 @@
-# Perfil Profissional em Desenvolvimento Web 💻
+# Profissional em Desenvolvimento Web 💻
 
-Olá! Eu sou [Seu Nome], um desenvolvedor web apaixonado com uma ampla gama de habilidades e experiências. Estou comprometido em entregar soluções de alta qualidade e inovadoras para os meus clientes. Abaixo estão algumas das minhas habilidades e áreas de expertise:
+Olá! Eu sou Alexandre Wada, um desenvolvedor web apaixonado com uma ampla gama de habilidades e experiências. Estou comprometido em entregar soluções de alta qualidade e inovadoras para os meus clientes. Abaixo estão algumas das minhas habilidades e áreas de expertise:
 
 ## Back-end 🛠️:
 
