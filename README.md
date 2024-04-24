@@ -1,8 +1,6 @@
-# Profissional em Desenvolvimento Web 💻
+# Perfil Profissional em Desenvolvimento Web 💻
 
-Olá! Eu sou Alexandre Riuti Wada, um desenvolvedor web apaixonado com mais de 10 anos de experiência. Estou comprometido em entregar soluções de alta qualidade e inovadoras para os meus clientes. 
-
-Abaixo estão algumas das minhas habilidades/conhecimentos e áreas de expertise:
+Olá! Eu sou Alexandre Riuti Wada, um desenvolvedor web apaixonado com mais de 10 anos de experiência. Estou comprometido em entregar soluções de alta qualidade e inovadoras para os meus clientes. Abaixo estão algumas das minhas habilidades e áreas de expertise:
 
 ## Back-end 🛠️:
 
@@ -50,5 +48,19 @@ Abaixo estão algumas das minhas habilidades/conhecimentos e áreas de expertise
 - Gamificação, Unity, Unreal Engine, Game Development
 - BaaS (Backend as a Service), Faas (Function as a Service), PaaS (Platform as a Service)
 - Quantum Computing, Quantum Machine Learning, Quantum Cryptography, Post-Quantum Cryptography
-
-
+- **PWAs (Progressive Web Apps):** Desenvolvimento de aplicações web que oferecem experiências semelhantes às de aplicativos nativos, incluindo funcionalidades como instalação, notificações push e acesso offline.
+- **Micro Frontends:** Abordagem arquitetural para desenvolvimento front-end, permitindo a construção de aplicações web modulares e escaláveis.
+- **WebAssembly (Wasm):** Tecnologia que permite a execução de código de alto desempenho, escrito em linguagens como C++, Rust e Python, diretamente no navegador.
+- **Server-Side Rendering (SSR) vs. Client-Side Rendering (CSR):** Diferentes abordagens para renderização de páginas web, cada uma com suas vantagens e desvantagens em termos de desempenho e SEO.
+- **HTTP/3 e QUIC:** Protocolos de comunicação web mais recentes, projetados para melhorar a velocidade e a segurança das conexões.
+- **Single Page Applications (SPAs) vs. Multi Page Applications (MPAs):** Diferenças entre esses dois modelos de desenvolvimento de aplicações web, em termos de arquitetura e experiência do usuário.
+- **GraphQL:** Linguagem de consulta desenvolvida pelo Facebook, utilizada para interagir com APIs de forma eficiente e flexível, permitindo aos clientes requisitarem apenas os dados necessários.
+- **Cypress e Testing Library:** Ferramentas modernas de teste end-to-end e teste de usuário, respectivamente, que facilitam a criação e execução de testes automatizados em aplicações web.
+- **Jamstack (JavaScript, APIs, e Markup):** Arquitetura moderna para desenvolvimento web que enfatiza o desempenho, segurança e escalabilidade, utilizando JavaScript no cliente, APIs no servidor e pré-renderização de páginas.
+- **E-commerce Headless:** Abordagem de comércio eletrônico que separa o front-end do back-end, permitindo maior flexibilidade e personalização na criação de interfaces de usuário.
+- **Design Patterns para Microservices:** Conjunto de padrões de projeto utilizados no desenvolvimento de arquiteturas de microservices, visando a escalabilidade, manutenibilidade e robustez do sistema.
+- **Low-Code/No-Code Development:** Tendência que permite a criação de aplicações web sem a necessidade de programação manual, utilizando ferramentas visuais e modelos pré-configurados.
+- **Serverless Computing:** Modelo de computação em nuvem que permite a execução de código sob demanda, sem a necessidade de provisionamento ou gerenciamento de servidores.
+- **Edge Computing:** Paradigma de computação distribuída que processa dados próximos à fonte de geração, reduzindo a latência e aumentando a eficiência na transmissão de dados em aplicações web.
+- **OpenAPI (anteriormente conhecido como Swagger):** Especificação para descrição de APIs RESTful, que permite a geração automática de documentação, testes e SDKs a partir do código fonte da API.
+- **Static Site Generators (SSGs):** Ferr
