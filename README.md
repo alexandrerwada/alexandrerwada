@@ -1,6 +1,7 @@
 # Profissional em Desenvolvimento Web 💻
 
-Olá! Eu sou Alexandre Riuti Wada, um desenvolvedor web apaixonado com mais de 10 anos de experiência. Estou comprometido em entregar soluções de alta qualidade e inovadoras para os meus clientes. Abaixo estão algumas das minhas habilidades e áreas de expertise:
+Olá! Eu sou Alexandre Riuti Wada, um desenvolvedor web apaixonado com mais de 14 anos de experiência. 
+Abaixo estão algumas das minhas habilidades e áreas de expertise, nem todas eu domino porém já tive algum contato em minha carreira profissional.
 
 ## Back-end 🛠️:
 
